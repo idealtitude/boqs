@@ -14,9 +14,11 @@ from a dropdown menu list.
 
 ## Installation
 
-Just download this repository, uncompress the archive, then open the preferences in Blender, and in the addons tab use "Install an addon",
-go the folder where the `boqs.py` is located and click Install; **important:** next activate the addon.
-And you're done! :)
+Just download or clone this repository, uncompress the archive; or go the download the [latest release(#release).
+Then open the preferences in Blender, and in the addons tab use "Install an addon",
+go the sub folder named **boqs** (where the `boqs.py` is located), or select the `.zip` release file, and click Install; 
+
+**Important:** next activate the addon. And you're done! :)
 
 ## Usage
 
@@ -32,7 +34,7 @@ Now you can create a shortcut to easily launch the `boqs` popup; and/or you can 
 
 If you'd like to improve that addon, you're welcome! There are several things to implement:
 
-- [ ] List Objects by Collections (and/or by other filters)
+- [x] List Objects by Collections (and/or by other filters)
 - [ ] Write the documentation
 - [ ] Generally improve and optimize the code
 
