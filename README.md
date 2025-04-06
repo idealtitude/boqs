@@ -32,10 +32,8 @@ Now you can create a shortcut to easily launch the `boqs` popup; and/or you can 
 
 If you'd like to improve that addon, you're welcome! There are several things to implement:
 
-  [ ] List Objects by Collections (and/or by other filters)
-
-  [ ] Write the documentation
-
-  [ ] Generally improve and optimize the code
+- [ ] List Objects by Collections (and/or by other filters)
+- [ ] Write the documentation
+- [ ] Generally improve and optimize the code
 
 Please contact me if you're interested to make your skills at use for `boqs`, I would greatly apppreciate it! It's my first Blender addon ever...
