@@ -14,7 +14,7 @@ from a dropdown menu list.
 
 ## Installation
 
-Just download or clone this repository, uncompress the archive; or go the download the [latest release(#release).
+Just download or clone this repository, uncompress the archive; or go the download the [latest release(https://github.com/idealtitude/boqs/releases).
 Then open the preferences in Blender, and in the addons tab use "Install an addon",
 go the sub folder named **boqs** (where the `boqs.py` is located), or select the `.zip` release file, and click Install; 
 
