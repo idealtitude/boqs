@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="boqs-0.0.1_logo-1024x1024.svg"
+   inkscape:export-filename="boqs-0.0.1_logo-1024x1024.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showborder="false"
+     showgrid="false"
+     inkscape:zoom="0.81347656"
+     inkscape:cx="511.38535"
+     inkscape:cy="512"
+     inkscape:window-width="1916"
+     inkscape:window-height="1037"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="16"
+       spacingy="16"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 512 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1024 : 512 : 1"
+       inkscape:persp3d-origin="512 : 341.33333 : 1"
+       id="perspective1" />
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="display:inline;fill:#3a3a3a;fill-opacity:1;stroke:#111111;stroke-width:6;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="1024"
+       height="1024"
+       x="0"
+       y="0"
+       inkscape:label="bg-rect"
+       ry="48" />
+  </g>
+  <g
+     id="g10"
+     inkscape:label="Cube"
+     transform="matrix(1.3748617,0,0,1.4187518,-191.92919,-214.39332)"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="CubeFaces">
+      <g
+         id="g9"
+         inkscape:label="cube-grp"
+         transform="matrix(1,0,0,1.0708256,0,-175.47773)">
+        <path
+           style="fill:#635f5f;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:round"
+           d="M 256.65381,512 512,387.98286 766.19268,512 768,768 512,896.03151 256,768 Z"
+           id="path7"
+           inkscape:label="right-side" />
+        <path
+           style="fill:#adadaf;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:round"
+           d="M 256.65381,512 512,640 768,512 512,387.98286 Z"
+           id="path8"
+           inkscape:label="top-side" />
+        <path
+           style="fill:#858787;fill-opacity:1;stroke:none;stroke-width:16;stroke-linejoin:round"
+           d="M 256,768 V 512 l 256,128 v 256 z"
+           id="path9"
+           inkscape:label="front-side" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="CubeOutline"
+       style="display:inline">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#f3982e;stroke-width:3.5;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 512,240 256.65381,372.78498 256,646.91633 512,784 768,646.91633 V 372.78498 Z"
+         id="path10"
+         inkscape:label="outline-stroke" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="X-Axis"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#8d0000;fill-opacity:1;stroke:#ff4545;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,816 1024,247.40644"
+       id="path11"
+       inkscape:label="x-axis-line" />
+    <path
+       style="fill:#8d0000;fill-opacity:1;stroke:#46ff00;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1024,816 0,247.40644"
+       id="path12"
+       inkscape:label="y-axis-line" />
+  </g>
+</svg>
