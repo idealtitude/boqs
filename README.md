@@ -2,7 +2,7 @@
 
 **boqs** stands for Blender Object Quick Selection
 
-[boqs logo](./boqs-0.0.1_logo-512x512.png)
+![boqs logo](./boqs-0.0.1_logo-512x512.png)
 
 ## Description
 
