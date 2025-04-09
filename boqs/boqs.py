@@ -2,7 +2,7 @@ import bpy
 
 bl_info = {
     "name": "Object Selector by Collection",
-    "author": "Stéphane (aka idealtitude) with the help of ChatGPT",
+    "author": "idealtitude",
     "version": (0, 1, 5),
     "blender": (3, 3, 0),
     "location": "Object > Select Object",
